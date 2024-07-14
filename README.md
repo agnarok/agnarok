@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Agnarok's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnarok&show_icons=true&theme=highcontrast&count_private=true) 
+![Agnarok's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnarok&show_icons=true&theme=dark&count_private=true) 
 ----
 [![roadmap.sh](https://roadmap.sh/card/wide/66945904298168c109f9296a?variant=dark)](https://roadmap.sh)
 
